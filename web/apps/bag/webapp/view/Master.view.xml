@@ -1,0 +1,120 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.ui.layout.form"
+    xmlns:core="sap.ui.core"
+    controllerName="bag.controller.Master">
+    <Page title = "Bags Table">
+        <headerContent>
+            <Button
+                    xmlns="sap.m"
+                    id="laptopTable"
+                    text="Laptops Table"
+                    icon="sap-icon://laptop"
+                    press="navigateLaptop"/>
+            <Button
+                    xmlns="sap.m"
+                    id="shopTable"
+                    text="Shops Table"
+                    icon="sap-icon://retail-store"
+                    press="navigateShop"/>
+        </headerContent>
+        <subHeader>
+            <OverflowToolbar>
+
+                <content>
+                    <ToolbarSpacer/>
+                    <SearchField
+                            id="searchField"
+                            width="25%"
+                            placeholder="{i18n>Type name bag}"
+                            search="onSearch"/>
+
+                    <Button
+                            xmlns="sap.m"
+                            id="btnAdd"
+                            icon="sap-icon://add"
+                            tooltip="{i18n>anddNewBag}"
+                            press="onCreate"/>
+                    <Button
+                            id="sortUsersButton"
+                            press="onSort"
+                            tooltip="{i18n>sortById}"
+                            icon="sap-icon://sort"/>
+                </content>
+            </OverflowToolbar>
+        </subHeader>
+        <Table  items="{data>/bags}"
+                id="bagsList">
+
+                    <columns>
+                        <Column >
+                            <header>
+                                <Label text="Bag ID"/>
+                            </header>
+                        </Column>
+
+                        <Column>
+                            <header>
+                                <Label text="Name"/>
+                            </header>
+                        </Column>
+
+                        <Column>
+                            <header>
+                                <Label text="Color"/>
+                            </header>
+                        </Column>
+
+                        <Column>
+                            <header>
+                                <Label text="Description"/>
+                            </header>
+                        </Column>
+
+                        <Column>
+                            <header>
+                                <Label text="Delete"/>
+                            </header>
+                        </Column>
+
+                        <Column>
+                            <header>
+                                <Label text="Update"/>
+                            </header>
+                        </Column>
+                    </columns>
+
+            <Column>
+                <header>
+                </header>
+            </Column>
+
+            <items>
+
+                    <ColumnListItem id="item1"  press="onItemPress">
+                        <cells>
+                            <Text text="{data>BGID}" id="text0"/>
+                            <Text text="{data>NAME}" id="text1"/>
+                            <Text text="{data>COLOR}" id="text2"/>
+                            <Text text="{data>DESCR}" id="text3"/>
+
+                            <Button
+                                    xmlns="sap.m"
+                                    id="butnDel"
+                                    icon="sap-icon://delete"
+                                    press="onDeleteBox"/>
+                            <Button
+                                    xmlns="sap.m"
+                                    id="btnUp"
+                                    icon="sap-icon://synchronize"
+                                    press="onUpdate"/>
+
+                        </cells>
+                    </ColumnListItem>
+                    </items>
+
+                </Table>
+    </Page>
+
+</mvc:View>

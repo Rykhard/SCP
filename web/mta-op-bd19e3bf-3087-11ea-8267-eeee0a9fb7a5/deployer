@@ -1,0 +1,1816 @@
+#2.0#2020 01 06 13:24:56.307#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] #2020-01-06T12:54:48.242Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] #2020-01-06T12:54:48.288Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] #2020-01-06T12:54:48.306Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-3903f0b9-3083-11ea-90cd-eeee0a9feab5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-3903f0b9-3083-11ea-90cd-eeee0a9feab5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.308#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.309#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T12_54_48_559Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.310#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:48 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:49 UTC 2020] Cell 669fda39-219b-42a1-8f6d-f68e303f9d7b destroying container for instance 6fa9d295-ab5e-4637-7fd6-fb3d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:49 UTC 2020] Cell 669fda39-219b-42a1-8f6d-f68e303f9d7b stopping instance 6fa9d295-ab5e-4637-7fd6-fb3d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:49 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:49 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 creating container for instance 2787b9f2-75b8-45a9-5ea2-d931 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:49 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"6fa9d295-ab5e-4637-7fd6-fb3d", "index"=>0, "cell_id"=>"669fda39-219b-42a1-8f6d-f68e303f9d7b", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578315289164549484, "version"=>"0deef34e-3d8b-4d85-ba17-11a42254e194"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:50 UTC 2020] Cell 669fda39-219b-42a1-8f6d-f68e303f9d7b successfully destroyed container for instance 6fa9d295-ab5e-4637-7fd6-fb3d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:54 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 successfully created container for instance 2787b9f2-75b8-45a9-5ea2-d931 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:54 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:57 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 stopping instance 2787b9f2-75b8-45a9-5ea2-d931 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:57 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STOPPED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:57 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 destroying container for instance 2787b9f2-75b8-45a9-5ea2-d931 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.311#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:57 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:54:58 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 successfully destroyed container for instance 2787b9f2-75b8-45a9-5ea2-d931 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:02 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:03 UTC 2020] Cell 691f3d6c-4298-4774-a585-726ea8a3dd7a creating container for instance cbf3c0c4-2ea5-4459-51a0-4158 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:08 UTC 2020] Cell 691f3d6c-4298-4774-a585-726ea8a3dd7a successfully created container for instance cbf3c0c4-2ea5-4459-51a0-4158 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:08 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:11 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:24 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:24 UTC 2020] > deployer@ start /home/vcap/app (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] #2020-01-06T12:55:31.126Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] #2020-01-06T12:55:31.158Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-3903f0b9-3083-11ea-90cd-eeee0a9feab5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.312#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] #2020-01-06T12:55:31.158Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-3903f0b9-3083-11ea-90cd-eeee0a9feab5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.313#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T12_55_31_383Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] Cell 691f3d6c-4298-4774-a585-726ea8a3dd7a destroying container for instance cbf3c0c4-2ea5-4459-51a0-4158 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:31 UTC 2020] Cell 691f3d6c-4298-4774-a585-726ea8a3dd7a stopping instance cbf3c0c4-2ea5-4459-51a0-4158 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:32 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:32 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"cbf3c0c4-2ea5-4459-51a0-4158", "index"=>0, "cell_id"=>"691f3d6c-4298-4774-a585-726ea8a3dd7a", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578315331766841806, "version"=>"fa3494b1-7ce2-48a0-b0a1-ad3acc566743"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:32 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 creating container for instance fee73f14-60f9-4a82-760f-6b99 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:33 UTC 2020] Cell 691f3d6c-4298-4774-a585-726ea8a3dd7a successfully destroyed container for instance cbf3c0c4-2ea5-4459-51a0-4158 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:37 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 successfully created container for instance fee73f14-60f9-4a82-760f-6b99 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:37 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.315#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:40 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:46 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 stopping instance fee73f14-60f9-4a82-760f-6b99 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:46 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STOPPED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:47 UTC 2020] Exit status 143 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:47 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 destroying container for instance fee73f14-60f9-4a82-760f-6b99 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 12:55:48 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 successfully destroyed container for instance fee73f14-60f9-4a82-760f-6b99 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:20 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:24 UTC 2020] Uploading app package for app with guid 15552537-bf94-4497-9d2c-1c8f3843938a (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:36 UTC 2020] Creating build for app with guid 15552537-bf94-4497-9d2c-1c8f3843938a (STDOUT, API)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_A07F76... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.316#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_EFADFC... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_A07F76 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded sap_java_buildpack_1_19 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_EFADFC (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_E806F8... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_70CDC3... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.317#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_9F0FE2... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_E806F8 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_BFE9B2... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading security_group_check_stg_buildpack_EE73DC... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.318#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_9F0FE2 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_70CDC3 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_EE73DC (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloading sap_java_buildpack_1_18... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded security_group_check_stg_buildpack_BFE9B2 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.319#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db creating container for instance d66034d6-892e-48ec-b29d-206b3f4d036b (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:43 UTC 2020] Downloaded sap_java_buildpack_1_18 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:45 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance d66034d6-892e-48ec-b29d-206b3f4d036b (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:45 UTC 2020] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:45 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:45 UTC 2020] Downloaded app package (10.3K) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:45 UTC 2020] Downloaded build artifacts cache (2.5M) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020] -----> Nodejs Buildpack version 1.7.2 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020]        engines.node (package.json): >=6.0.0 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020]        Copy [/tmp/buildpacks/02f844d7492672c8b1bb6ead8bd2f819/dependencies/2e3646a3f9902f976ab69749d8839f09/node-13.0.1-linux-x64-cflinuxfs3-591dc937.tgz] (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020] -----> Installing node 13.0.1 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020]        [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.320#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:47 UTC 2020]        engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Copy [/tmp/buildpacks/02f844d7492672c8b1bb6ead8bd2f819/dependencies/3c6e4143e3d81d24d938953b6c5437e0/yarn-1.19.1-any-stack-34293da6.tar.gz] (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020] -----> Installing yarn 1.19.1 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Using default npm version: 6.12.0 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Installed yarn 1.19.1 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.321#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NODE_HOME=/tmp/contents358883276/deps/0/node (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.322#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.322#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.322#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.322#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Installing node modules (package.json) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:24:56.322#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-20###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:50 UTC 2020]        Installing node modules (package.json) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:58 UTC 2020]   run `npm audit fix` to fix them, or `npm audit` for details (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:58 UTC 2020] found 4 moderate severity vulnerabilities (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:58 UTC 2020] added 101 packages from 86 contributors and audited 249 packages in 6.498s (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:59 UTC 2020]        See: https://github.com/npm/npm/issues/7494 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:59 UTC 2020]        [31;1m**WARNING**[0m Unmet dependencies don't fail npm install but may cause runtime issues (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:08.037#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-13###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:24:59 UTC 2020]        Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:08 UTC 2020] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:08 UTC 2020] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:08 UTC 2020] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:08 UTC 2020] Exit status 0 (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:10 UTC 2020] Uploaded build artifacts cache (2.5M) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.621#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:11 UTC 2020] Creating droplet for app with guid 15552537-bf94-4497-9d2c-1c8f3843938a (STDOUT, API)#
+
+#2.0#2020 01 06 13:25:22.622#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:18 UTC 2020] Uploaded droplet (34.6M) (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.622#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:18 UTC 2020] Uploading complete (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.622#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:18 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db destroying container for instance d66034d6-892e-48ec-b29d-206b3f4d036b (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.622#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:18 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db stopping instance d66034d6-892e-48ec-b29d-206b3f4d036b (STDOUT, STG)#
+
+#2.0#2020 01 06 13:25:22.622#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7###
+[PollStageAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:19 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully destroyed container for instance d66034d6-892e-48ec-b29d-206b3f4d036b (STDOUT, STG)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:46 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({:droplet_guid=>"8e1eebcd-2f31-4356-b772-8109bda54e66"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:49 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:49 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f creating container for instance e2417688-9c11-48cd-6870-d615 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:54 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully created container for instance e2417688-9c11-48cd-6870-d615 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:55 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:07.879#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:25:58 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:23.633#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:10 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.633#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:10 UTC 2020] > deployer@ start /home/vcap/app (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.633#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] #2020-01-06T13:26:16.516Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] #2020-01-06T13:26:16.575Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] #2020-01-06T13:26:16.590Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.634#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.635#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T13_26_16_881Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:16 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:17 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:18 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f destroying container for instance e2417688-9c11-48cd-6870-d615 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:18 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f stopping instance e2417688-9c11-48cd-6870-d615 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:18 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db creating container for instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:23.636#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:19 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully destroyed container for instance e2417688-9c11-48cd-6870-d615 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:23.637#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:20 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:26:23.637#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-16###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:21 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"e2417688-9c11-48cd-6870-d615", "index"=>0, "cell_id"=>"4655535e-37d4-43c6-9a34-204e8044710f", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578317177925981056, "version"=>"5e376fb1-bfcb-4e50-b473-dc73384cc7ec"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:26:38.392#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:23 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:38.392#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:24 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:26:38.392#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:27 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:23 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:24 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:27 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:39 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db stopping instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:39 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STOPPED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:27:09.784#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:39 UTC 2020] Exit status 143 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:39 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db destroying container for instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:40 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully destroyed container for instance 2de26e81-21fd-4e8e-4745-1143 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:51 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc creating container for instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:53 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:54 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc successfully created container for instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:54 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.785#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:26:57 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:04 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:04 UTC 2020] > deployer@ start /home/vcap/app (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] #2020-01-06T13:27:08.054Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] #2020-01-06T13:27:08.056Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] #2020-01-06T13:27:08.056Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.786#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.787#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T13_27_08_252Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc destroying container for instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:08 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc stopping instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:09.788#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:09 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:27:09.789#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:09 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"6a4171b9-c2e9-4b65-7ac1-642d", "index"=>0, "cell_id"=>"a59472aa-8ec9-4b96-8d83-55b7cbcb45dc", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578317228718649562, "version"=>"be510a4f-6bcd-426c-908b-b3a88c44f2c8"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:27:28.196#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:09 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc successfully destroyed container for instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:28.196#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:10 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db creating container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:28.197#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:15 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:28.197#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:15 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:27:28.197#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:18 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.806#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:09 UTC 2020] Cell a59472aa-8ec9-4b96-8d83-55b7cbcb45dc successfully destroyed container for instance 6a4171b9-c2e9-4b65-7ac1-642d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.806#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:10 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db creating container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.806#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:15 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:15 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:18 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:30 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db stopping instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:30 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STOPPED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:31 UTC 2020] Exit status 143 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:31 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db destroying container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:32 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully destroyed container for instance a290a53d-3d88-4f7d-5ae6-0740 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:39 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:40 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db creating container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:45 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully created container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:45 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.807#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:27:48 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:04.808#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:01 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:04.808#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:01 UTC 2020] > deployer@ start /home/vcap/app (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.858#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:01 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.170Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.182Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.188Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.859#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.860#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.861#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T13_28_07_511Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db destroying container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db stopping instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f creating container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:09 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully destroyed container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:11 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:12 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"24a5ff93-0751-4a08-61a1-9995", "index"=>0, "cell_id"=>"6fdaea45-590a-434e-be65-e4e0537516db", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578317288057706522, "version"=>"83aed3c0-2897-43c6-8a90-6229a8600fa5"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:13 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully created container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:13 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:22.862#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-33###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:16 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.524#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:01 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.170Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.182Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] #2020-01-06T13:28:07.188Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.525#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.526#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T13_28_07_511Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:07 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db destroying container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db stopping instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.527#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:08 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f creating container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:09 UTC 2020] Cell 6fdaea45-590a-434e-be65-e4e0537516db successfully destroyed container for instance 24a5ff93-0751-4a08-61a1-9995 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:11 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:12 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"24a5ff93-0751-4a08-61a1-9995", "index"=>0, "cell_id"=>"6fdaea45-590a-434e-be65-e4e0537516db", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578317288057706522, "version"=>"83aed3c0-2897-43c6-8a90-6229a8600fa5"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:13 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully created container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:13 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:16 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:24 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f stopping instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:24 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STOPPED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:25 UTC 2020] Exit status 143 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:25 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f destroying container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:26 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully destroyed container for instance 3258d09d-07a4-4d1f-7c8c-ae7d (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:30 UTC 2020] Updated app with guid 15552537-bf94-4497-9d2c-1c8f3843938a ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2020 01 06 13:28:49.528#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:31 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f creating container for instance e9bb1878-8e6a-4308-4925-08f0 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.529#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:36 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully created container for instance e9bb1878-8e6a-4308-4925-08f0 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.529#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:37 UTC 2020] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:28:49.529#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-30###
+[PollStartAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:40 UTC 2020] Downloaded droplet (34.6M) (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:29:01.758#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:52 UTC 2020] > node node_modules/@sap/html5-app-deployer/index.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.758#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:52 UTC 2020] > deployer@ start /home/vcap/app (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] #2020-01-06T13:28:58.783Z# - #error# The resources folder resources does not exist. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] #2020-01-06T13:28:58.790Z# - #error# Application Deployer failed (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] #2020-01-06T13:28:58.790Z# - #error# Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] Deployment of html5 application content failed [Deployment Id: deploy-bd19e3bf-3087-11ea-8267-eeee0a9fb7a5] (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] } (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]   path: '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]   code: 'ENOENT', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]   syscall: 'scandir', (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]   errno: -2, (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Function.Module.runMain (internal/modules/cjs/loader.js:1051:12) { (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Function.Module._load (internal/modules/cjs/loader.js:730:14) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.759#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Module.load (internal/modules/cjs/loader.js:822:32) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Module._compile (internal/modules/cjs/loader.js:971:30) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Object.<anonymous> (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/index.js:5:10) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Object.startDeployer (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:19:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at start (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:49:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at executeUpload (/home/vcap/deps/0/node_modules/@sap/html5-app-deployer/lib/deployerHandler.js:59:26) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     at Object.readdirSync (fs.js:870:3) (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] Error: ENOENT: no such file or directory, scandir '/home/vcap/deps/0/resources' (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     ^ (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020]     throw err; (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] internal/fs/utils.js:220 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.760#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] npm ERR! code ELIFECYCLE (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:58 UTC 2020] npm ERR! errno 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR! deployer@ start: `node node_modules/@sap/html5-app-deployer/index.js` (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR! Exit status 1 (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR!  (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR! Failed at the deployer@ start script. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR! This is probably not a problem with npm. There is likely additional logging output above. (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR!     /home/vcap/app/.npm/_logs/2020-01-06T13_28_59_095Z-debug.log (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] npm ERR! A complete log of this run can be found in: (STDERR, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] Exit status 1 (STDOUT, APP/PROC/WEB)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f destroying container for instance e9bb1878-8e6a-4308-4925-08f0 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f stopping instance e9bb1878-8e6a-4308-4925-08f0 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] Process has crashed with type: "web" (STDOUT, API)#
+
+#2.0#2020 01 06 13:29:01.761#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:28:59 UTC 2020] App instance exited with guid 15552537-bf94-4497-9d2c-1c8f3843938a payload: {"instance"=>"e9bb1878-8e6a-4308-4925-08f0", "index"=>0, "cell_id"=>"4655535e-37d4-43c6-9a34-204e8044710f", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1578317339759408236, "version"=>"6029e099-71ca-4b4e-bf09-a49d72d23244"} (STDOUT, API)#
+
+#2.0#2020 01 06 13:29:01.762#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:29:00 UTC 2020] Cell 03bd29de-80e4-4477-8af4-ba2c32d9ae93 creating container for instance 05439f9a-e049-41ca-62ff-7462 (STDOUT, CELL)#
+
+#2.0#2020 01 06 13:29:01.762#Z#DEBUG#com.sap.cloud.lm.sl.xs2.bd19e3bf-3087-11ea-8267-eeee0a9fb7a5.deployer.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-27###
+[PollExecuteAppStatusExecution] [deployer] 15552537-bf94-4497-9d2c-1c8f3843938a [Mon Jan 06 13:29:00 UTC 2020] Cell 4655535e-37d4-43c6-9a34-204e8044710f successfully destroyed container for instance e9bb1878-8e6a-4308-4925-08f0 (STDOUT, CELL)#
+

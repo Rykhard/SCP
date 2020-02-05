@@ -1,0 +1,17 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:f="sap.ui.layout.form" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" id="inputdialogDelete">
+    <Dialog id="openDialogDelete"
+            title="Are you sure ?">
+        <buttons>
+            <Button
+                    text="Yes"
+                    id="id0"
+                    type="submit"
+                    press=".onDeletePress"
+                    icon="sap-icon://accept"/>
+            <Button
+                    text="Cancel"
+                    press=".closeDialog"
+                    icon="sap-icon://decline"/>
+        </buttons>
+    </Dialog>
+</core:FragmentDefinition>

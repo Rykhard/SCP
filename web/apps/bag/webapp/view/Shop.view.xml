@@ -1,0 +1,119 @@
+<mvc:View
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m"
+        xmlns:f="sap.ui.layout.form"
+        xmlns:core="sap.ui.core"
+        controllerName="bag.controller.Shop">
+    <Page title = "Shops Table">
+        <headerContent>
+            <Button
+                    xmlns="sap.m"
+                    id="bagTable_1"
+                    text="Bags Table"
+                    icon="sap-icon://basket"
+                    press="navigateBag"/>
+            <Button
+                    xmlns="sap.m"
+                    id="shopTable_1"
+                    text="Laptop Table"
+                    icon="sap-icon://laptop"
+                    press="navigateLaptop"/>
+        </headerContent>
+        <subHeader>
+            <OverflowToolbar>
+
+                <content>
+                    <ToolbarSpacer/>
+                    <SearchField
+                            id="searchField"
+                            width="25%"
+                            placeholder="{i18n>Type name shop}"
+                            search="onSearch"/>
+
+                    <Button
+                            xmlns="sap.m"
+                            id="btnAdd"
+                            icon="sap-icon://add"
+                            tooltip="{i18n>anddNewShop}"
+                            press="onCreate"/>
+
+                </content>
+            </OverflowToolbar>
+        </subHeader>
+
+        <Table items="{data>/shops}"
+               id="shopsList">
+
+            <columns>
+                <Column >
+                    <header>
+                        <Label text="Bag ID"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Shop ID"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Name"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Cost"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Delete"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Update"/>
+                    </header>
+                </Column>
+            </columns>
+
+            <Column>
+                <header>
+                </header>
+            </Column>
+
+            <items>
+
+                <ColumnListItem
+                        id="item1"
+                            press="onItemPress">
+                    <cells>
+                        <Text text="{data>BGID}" id="text0"/>
+                        <Text text="{data>SHID}" id="text1"/>
+                        <Text text="{data>NAME}" id="text2"/>
+                        <Text text="{data>COST}" id="text3"/>
+
+                        <Button
+                                xmlns="sap.m"
+                                id="btn_11"
+                                icon="sap-icon://delete"
+                                press="onDeletePress"/>
+                        <Button
+                                xmlns="sap.m"
+                                id="btn_12"
+                                icon="sap-icon://synchronize"
+                                press="onUpdate"/>
+
+                    </cells>
+                </ColumnListItem>
+            </items>
+
+        </Table>
+    </Page>
+
+</mvc:View>

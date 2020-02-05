@@ -1,0 +1,44 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:f="sap.ui.layout.form" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" id="inputdialog">
+    <Dialog id="openDialogShop"
+            title="Create New Shop">
+        <VBox class="sapUiSmallMargin">
+            <f:SimpleForm id="SimpleFormDisplay354" editable="true" layout="ResponsiveGridLayout"  labelSpanXL="3" labelSpanL="3"
+                          labelSpanM="3" labelSpanS="12" adjustLabelSpan="false" emptySpanXL="4" emptySpanL="4" emptySpanM="4" emptySpanS="0" columnsXL="1"
+                          columnsL="1" columnsM="1" singleContainerFullSize="false">
+                <f:content>
+
+
+
+                    <Label  text="BagId"/>
+                    <Input
+                            width="50%"
+                            id="input"
+                            placeholder="Enter bag id"/>
+                    <Label  text="Name"/>
+                    <Input
+                            width="50%"
+                            id="input0"
+                            placeholder="Enter new name"/>
+                    <Label  text="Cost"/>
+                    <Input
+                            width="50%"
+                            id="input1"
+                            placeholder="Enter new cost"/>
+
+                </f:content>
+            </f:SimpleForm>
+        </VBox>
+        <buttons>
+            <Button
+                    text="Save"
+                    type="submit"
+                    press=".createDialog"
+                    icon="sap-icon://accept"/>
+            <Button
+                    text="Cancel"
+                    press=".closeDialog"
+                    icon="sap-icon://decline"/>
+
+        </buttons>
+    </Dialog>
+</core:FragmentDefinition>

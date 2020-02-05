@@ -1,0 +1,20 @@
+---
+server.port: ${PORT:8080} 
+
+spring:
+  datasource:
+    url: "jdbc:sqlite:file:local.db?cache=shared"
+    driverClassName: org.sqlite.JDBC
+    initialization-mode: never
+
+---
+spring:
+  profiles: cloud  
+  datasource:       
+    url:             ${vcap.services.${db_service_instance_name}.credentials.url}
+    username:        ${vcap.services.${db_service_instance_name}.credentials.user}
+    password:        ${vcap.services.${db_service_instance_name}.credentials.password}
+    driverClassName: ${vcap.services.${db_service_instance_name}.credentials.driver}
+    type:            com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximumPoolSize: 10

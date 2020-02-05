@@ -1,0 +1,48 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:f="sap.ui.layout.form" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core" id="inputdialogUpdate">
+    <Dialog id="openDialogUpdate"
+            title="Update  Bag">
+        <VBox class="sapUiSmallMargin">
+            <f:SimpleForm id="SimpleFormDisplay1" editable="true" layout="ResponsiveGridLayout"  labelSpanXL="3" labelSpanL="3"
+                          labelSpanM="3" labelSpanS="12" adjustLabelSpan="false" emptySpanXL="4" emptySpanL="4" emptySpanM="4" emptySpanS="0" columnsXL="1"
+                          columnsL="1" columnsM="1" singleContainerFullSize="false">
+                <f:content>
+
+                    <Label  text="ID" />
+                    <Text
+                            text="{data>BGID}"
+                            id="input228"/>
+                    <Label  text="Name"/>
+                    <Input
+                            width="50%"
+                            id="input143434342"
+                            value="{data>NAME}"
+                            placeholder = "Pass name pls"/>
+                    <Label  text="Color"/>
+                    <Input
+                            width="50%"
+                            id="input43654354353"
+                            value="{data>COLOR}"
+                            placeholder = "Pass color pls"/>
+                    <Label  text="Description"/>
+                    <Input
+                            width="50%"
+                            id="input1488"
+                            value="{data>DESCR}"
+                            placeholder = "Pass descr pls"/>
+                </f:content>
+            </f:SimpleForm>
+        </VBox>
+        <buttons>
+            <Button
+                    text="Save"
+                    type="submit"
+                    press=".updateDialog"
+                    icon="sap-icon://accept"/>
+            <Button
+                    text="Cancel"
+                    press=".closeDialog"
+                    icon="sap-icon://decline"/>
+
+        </buttons>
+    </Dialog>
+</core:FragmentDefinition>

@@ -1,0 +1,101 @@
+<mvc:View
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m"
+        xmlns:f="sap.ui.layout.form"
+        xmlns:core="sap.ui.core"
+        controllerName="bag.controller.Laptop">
+    <Page title = "Laptops Table">
+        <headerContent>
+            <Button
+                    xmlns="sap.m"
+                    id="laptopTable_11"
+                    text="Bags Table"
+                    icon="sap-icon://basket"
+                    press ="navigateBag" />
+            <Button
+                    xmlns="sap.m"
+                    id="shopTable_12"
+                    text="Shops Table"
+                    icon="sap-icon://retail-store"
+                    press ="navigateShop" />
+        </headerContent>
+        <subHeader>
+            <OverflowToolbar>
+
+                <content>
+                    <ToolbarSpacer/>
+                    <Button
+                            xmlns="sap.m"
+                            id="btnAdd"
+                            icon="sap-icon://add"
+                            tooltip="{i18n>anddNewLapotp}"
+                            press="onCreate"/>
+
+                </content>
+            </OverflowToolbar>
+        </subHeader>
+
+        <Table items="{data>/laptops}">
+
+            <columns>
+                <Column >
+                    <header>
+                        <Label text="Bag ID"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Laptop ID"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Name"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Screen"/>
+                    </header>
+                </Column>
+
+                <Column>
+                    <header>
+                        <Label text="Delete"/>
+                    </header>
+                </Column>
+
+
+            </columns>
+
+            <Column>
+                <header>
+                </header>
+            </Column>
+
+            <items>
+
+                <ColumnListItem id="item1" press="onItemPress">
+                    <cells>
+                        <Text text="{data>BGID}" id="text11"/>
+                        <Text text="{data>LPID}" id="text12"/>
+                        <Text text="{data>NAME}" id="text13"/>
+                        <Text text="{data>SCREEN}" id="text14"/>
+
+                        <Button
+                                xmlns="sap.m"
+                                id="btnDellLaptop"
+                                icon="sap-icon://delete"
+                                press="onDeletePress"/>
+
+                    </cells>
+                </ColumnListItem>
+            </items>
+
+        </Table>
+    </Page>
+
+</mvc:View>
